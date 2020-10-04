@@ -1,8 +1,6 @@
 Timer
 =====
 
-*Mirrors: [GitHub] ~ [GitLab]*
-
 Proof-of-concept egg timer written in PyGTK
 
 Please note that the purpose of this project at the time was to get familiar with PyGTK.
@@ -17,6 +15,3 @@ Simply execute `src/timer.py`. The UI (shown in the screenshots below) should be
 ![Configuration interface](screenshots/configuration-interface.png)
 
 ![Running timer](screenshots/running-timer.png)
-
-[GitHub]: https://github.com/Johennes/Timer
-[GitLab]: https://gitlab.com/cherrypicker/Timer
